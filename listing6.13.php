@@ -1,0 +1,1 @@
+DB::table('orders'	)->update(array('product'=>'Headphones'));

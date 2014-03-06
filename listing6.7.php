@@ -1,0 +1,1 @@
+$orders = DB::table('orders')->get();
